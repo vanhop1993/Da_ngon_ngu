@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Da_ngon_ngu</string>
+    <string name="text_title_login">Login System</string>
+    <string name="text_account">Account</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+</resources>
